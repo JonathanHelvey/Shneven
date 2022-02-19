@@ -1,0 +1,20 @@
+.button{
+  background: rgb(50, 145, 233);
+  color: white;
+  border-radius: 3px;
+  width: 80px;
+  height: 60px;
+  cursor: pointer;
+}
+
+.header1 {
+  font-size: 42px;
+  color: rgb(50, 145, 233);
+  border-color: black;
+}
+
+.nft-box{
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
